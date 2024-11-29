@@ -1,0 +1,20 @@
+.dsfooterlinks {
+    display: flex;
+}
+@media(max-width: 800px) {
+    .dsfooterlinks {
+        display: block;
+    }
+}
+.dsfooterlinks li{
+   list-style: none;
+   /* padding-top: 20px; */
+}
+.dsfooterlinks a{
+    color: #fff;
+    padding-left: 20px;
+}
+.ds-logog {
+    width: 250px;
+}
+/** ADD YOUR AWESOME CODES HERE **/
